@@ -78,8 +78,7 @@ This is my submission for the project. The task was to create a MERN stack appli
 
 ---
 
-## 🧑‍💻 Developed By
+## 👨‍💻 Author
 
-**Chandler Soderberg**  
-MS CS, State University  
-[LinkedIn Profile](#)
+Open-source project maintained by the author.
+
