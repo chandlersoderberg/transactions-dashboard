@@ -82,4 +82,4 @@ This is my submission for the project. The task was to create a MERN stack appli
 
 **Chandler Soderberg**  
 MS CS, State University  
-[LinkedIn Profile](https://www.linkedin.com/in/chandlersoderberg/)
+[LinkedIn Profile](#)
