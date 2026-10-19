@@ -1,6 +1,6 @@
-# DataSys MERN Stack Coding Challenge
+# Transactions Dashboard
 
-This is my submission for the DataSys FullStack Internship Coding Challenge. The task was to create a MERN stack application that fetches product transaction data from a third-party API and displays various visualizations and tables based on that data.
+This is my submission for the project. The task was to create a MERN stack application that fetches product transaction data from a third-party API and displays various visualizations and tables based on that data.
 
 ---
 
@@ -34,7 +34,7 @@ This is my submission for the DataSys FullStack Internship Coding Challenge. The
    DB_HOST=localhost
    DB_USER=root
    DB_PASSWORD=yourpassword
-   DB_NAME=datasys
+   DB_NAME=transactions
    ```
 
 4. Start the backend server:
@@ -65,7 +65,7 @@ This is my submission for the DataSys FullStack Internship Coding Challenge. The
 
 ## 📊 Features Implemented
 
-- ✅ Fetched and seeded DB with transactions from [DataSys Third-Party API](https://s3.amazonaws.com/datasys.com/product_transaction.json)
+- ✅ Fetched and seeded DB with transactions from [Public Data API](https://s3.amazonaws.com/datasys.com/product_transaction.json)
 - ✅ Transactions table with search and pagination
 - ✅ Statistics section with:
   - Total Sale Amount

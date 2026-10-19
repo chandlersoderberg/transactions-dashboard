@@ -43,7 +43,7 @@ const App = () => {
     letterSpacing: '1px',
   }}
 >
-  📊 DataSys Transactions Dashboard
+  📊 Transactions Dashboard
 </h2>
 
  
